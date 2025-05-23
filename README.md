@@ -1,3 +1,3 @@
 # Computational_photography
 
-Course Project For CSCI 3240U Computattional Photography
+Course Project For CSCI 3240U Computational Photography
